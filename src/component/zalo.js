@@ -1,7 +1,7 @@
 import React from "react";
 const Zalo = () => {
     return (
-        <><h1>Nhóm làm việc Zalo Version 1.0</h1><div className="container">
+        <><h1>Nhóm làm việc Zalo Version 1.1</h1><div className="container">
             <div className="row">
                 <div className="col-md-2 mt-2">
                     <a
